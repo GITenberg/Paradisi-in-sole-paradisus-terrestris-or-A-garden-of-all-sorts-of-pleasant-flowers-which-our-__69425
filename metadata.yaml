@@ -1,0 +1,45 @@
+_repo: Paradisi-in-sole-paradisus-terrestris-or-A-garden-of-all-sorts-of-pleasant-flowers-which-our-__69425
+_version: 0.0.1
+alternative_title: "Paradisi in sole paradisus terrestris, or, A garden of all sorts\
+  \ of pleasant flowers which our English air will permitt to be nursed up\r\na kitchen\
+  \ garden of all manner of herbs, roots & fruits for meat or sauce used with us,\
+  \ and, an orchard of all sort of fruitbearing trees and shrubs fit for our land,\
+  \ together with the right ordering, planting & preserving of them and their uses\
+  \ & virtues"
+creator:
+  author:
+    agent_name: Parkinson, John
+    birthdate: 1567
+    deathdate: 1650
+    gutenberg_agent_id: '55258'
+    url: http://www.gutenberg.org/2009/agents/55258
+    wikipedia: https://en.wikipedia.org/wiki/John_Parkinson_(botanist)
+description: '1904 Methuen reprint of 1629 edition.
+
+  "Paradisi in sole" is a pun on the author''s name, "Park-in-sun."'
+gutenberg_issued: '2022-11-26'
+identifiers:
+  gutenberg: '69425'
+language: en
+pgterms:marc904: https://archive.org/details/paradisiinsolepa00parkrich
+pgterms:marc905: 20060327100617parkinson
+pgterms:marc906: '1629'
+pgterms:marc907: gb
+production_note: Fay Dunn, MWS, Carlo Traverso, Janet Blenkinship and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: 'United Kingdom: Humfrey Lawnes and Robert Young,1629.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening -- England -- Early works to 1800'
+- !lcsh 'Gardening -- Early works to 1800'
+- !lcc 'SB'
+- GITenberg
+title: "Paradisi in sole paradisus terrestris, or, A garden of all sorts of pleasant\
+  \ flowers which our English ayre will permitt to be noursed vp\r\na kitchen garden\
+  \ of all manner of herbes, rootes & fruites for meate or sauce vsed with vs, and,\
+  \ an orchard of all sorte of fruitbearing trees and shrubbes fit for our land, together\
+  \ with the right orderinge, planting & preseruing of them and their vses & vertues"
+url: http://www.gutenberg.org/ebooks/69425
