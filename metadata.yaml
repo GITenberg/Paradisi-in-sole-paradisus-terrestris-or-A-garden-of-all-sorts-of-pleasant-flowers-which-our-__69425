@@ -6,6 +6,9 @@ alternative_title: "Paradisi in sole paradisus terrestris, or, A garden of all s
   \ and, an orchard of all sort of fruitbearing trees and shrubs fit for our land,\
   \ together with the right ordering, planting & preserving of them and their uses\
   \ & virtues"
+covers:
+- cover_type: archival
+  image_path: 69425-h/images/cover.jpg
 creator:
   author:
     agent_name: Parkinson, John
@@ -17,6 +20,8 @@ creator:
 description: '1904 Methuen reprint of 1629 edition.
 
   "Paradisi in sole" is a pun on the author''s name, "Park-in-sun."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69425#Paradisi-in-sole-paradisus-terrestris-or-A-garden-of-all-sorts-of-pleasant-flowers-which-our-_
 gutenberg_issued: '2022-11-26'
 identifiers:
   gutenberg: '69425'
